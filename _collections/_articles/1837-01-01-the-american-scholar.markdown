@@ -5,6 +5,13 @@ author: Ralph Waldo Emerson
 date:   1940-06-04 20:20:35 +0200
 image: http://hdblackwallpaper.com/wallpaper/2015/07/black-and-white-landscape-photography-1-background-wallpaper.jpg
 rating: 4
+LinkText1: SVM
+Link1: www.yahoo.com
+LinkText2: Random Forest
+Link2: www.google.com
+LinkText3: AdaBoost
+Link3: www.meonada.com
+
 description: This address was delivered at Cambridge in 1837, before the Harvard Chapter of the Phi Beta Kappa Society.
 ---
 MR. PRESIDENT AND GENTLEMEN,
