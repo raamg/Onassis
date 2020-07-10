@@ -5,6 +5,13 @@ author: Winston Churchill
 date:   1940-06-04 20:20:35 +0200
 image: http://hdblackwallpaper.com/wallpaper/2015/07/black-and-white-landscape-photography-30-free-hd-wallpaper.jpg
 rating: 4
+LinkText1: SVM
+Link1: www.yahoo.com
+LinkText2: Random Forest
+Link2: www.google.com
+LinkText3: AdaBoost
+Link3: www.meonada.com
+
 description: In this emotive speech, Churchill raises everyone's spirit to fight the Nazis back.
 ---
 I have, myself, full confidence that if all do their duty, if nothing is neglected, and if the best arrangements are made, as they are being made, we shall prove ourselves once again able to defend our Island home, to ride out the storm of war, and to outlive the menace of tyranny, if necessary for years, if necessary alone.
