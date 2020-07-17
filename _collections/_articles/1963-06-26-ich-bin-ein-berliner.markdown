@@ -11,6 +11,7 @@ LinkText2: Random Forest
 Link2: www.google.com
 LinkText3: AdaBoost
 Link3: www.meonada.com
+tags: jekyll blog2 github-page
 
 description: All free men, wherever they may live, are citizens of Berlin - says JFK.
 ---

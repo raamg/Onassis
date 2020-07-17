@@ -11,6 +11,7 @@ LinkText2: Random Forest
 Link2: www.google.com
 LinkText3: AdaBoost
 Link3: www.meonada.com
+tags: jekyll blog3 github-page
 
 description: In this emotive speech, Churchill raises everyone's spirit to fight the Nazis back.
 ---

@@ -11,7 +11,7 @@ LinkText2: Random Forest
 Link2: www.google.com
 LinkText3: AdaBoost
 Link3: www.meonada.com
-
+tags: jekyll blog3 github-page
 description: This address was delivered at Cambridge in 1837, before the Harvard Chapter of the Phi Beta Kappa Society.
 ---
 MR. PRESIDENT AND GENTLEMEN,
