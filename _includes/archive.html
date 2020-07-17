@@ -1,6 +1,6 @@
 <h2>Archive2</h2>
 {% capture temptags %}
-  {% for tag in site.tags %}
+  {% for tag in sitetags %}
     <h3> {{tag}}</h3>
     {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
   {% endfor %}
