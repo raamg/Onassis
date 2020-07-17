@@ -11,6 +11,7 @@
   {% if tag != "" %}
     {% if tags == "" %}
       {% assign tags = tag | split:'|' %}
+	  	<h3> tags seen now1.2 is {{ tags }}</h3>  
     {% endif %}
     {% unless tags contains tag %}
       {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
@@ -19,6 +20,8 @@
   {% endif %}
 {% endfor %}
 
+<h3> tags seen now3.1 is {{ tags }}</h3>  
 {% assign site.tags = tags %}
+<h3> tags seen now3.2 is {{ site.tags }}</h3>  
 
-<h3> tags collected </h3>
+<h3> all tags collected </h3>
