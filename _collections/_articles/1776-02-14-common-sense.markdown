@@ -11,6 +11,7 @@ LinkText2: Random Forest
 Link2: www.google.com
 LinkText3: AdaBoost
 Link3: www.meonada.com
+tags: jekyll blog2 github-page
 description: Government should be getting out of the way, or else.
 ---
 Some writers have so confounded society with government, as to leave little or no distinction between them; whereas they are not only different, but have different origins. Society is produced by our wants, and government by our wickedness; the former promotes our happiness positively by uniting our affections, the latter negatively by restraining our vices. The one encourages intercourse, the other creates distinctions.
